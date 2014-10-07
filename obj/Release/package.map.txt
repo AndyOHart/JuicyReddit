@@ -1,0 +1,12 @@
+[Files]
+"C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\bin\Release\AppxManifest.xml" "AppxManifest.xml"
+"C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\bin\Release\JuicyReddit.exe" "JuicyReddit.exe"
+"C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\packages\Newtonsoft.Json.5.0.8\lib\netcore45\Newtonsoft.Json.dll" "Newtonsoft.Json.dll"
+"C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\Assets\Logo.scale-100.png" "Assets\Logo.scale-100.png"
+"C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\Assets\SmallLogo.scale-100.png" "Assets\SmallLogo.scale-100.png"
+"C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\Assets\SplashScreen.scale-100.png" "Assets\SplashScreen.scale-100.png"
+"C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\Assets\StoreLogo.scale-100.png" "Assets\StoreLogo.scale-100.png"
+"C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\bin\Release\App.xbf" "App.xbf"
+"C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\bin\Release\Design Pages\Login.xbf" "Design Pages\Login.xbf"
+"C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\bin\Release\Design Pages\MainPage.xbf" "Design Pages\MainPage.xbf"
+"C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\bin\Release\resources.pri" "resources.pri"

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ANDYS</Machine>
+    <WindowsUser>Andy</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5a0c8506-2cfd-4871-ba31-c323128ad1c4</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\bin\Release\JuicyReddit.exe">
+      <PackagePath>JuicyReddit.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\packages\Newtonsoft.Json.5.0.8\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\bin\Release\Design Pages\Login.xbf">
+      <PackagePath>Design Pages\Login.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\bin\Release\Design Pages\MainPage.xbf">
+      <PackagePath>Design Pages\MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,81 @@
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\App.g.i.cs
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\App.g.cs
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\App.xaml
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\App.xbf
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\XamlSaveStateFile.xml
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\bin\Release\App.xbf
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\bin\Release\JuicyReddit.exe
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\bin\Release\JuicyReddit.pdb
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\bin\Release\resources.pri
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\bin\Release\AppxManifest.xml
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\bin\Release\JuicyReddit.build.appxrecipe
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\bin\Release\Newtonsoft.Json.dll
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\bin\Release\Newtonsoft.Json.xml
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\JuicyReddit.exe
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\JuicyReddit.pdb
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\JuicyReddit.csproj.GenerateResource.Cache
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\priconfig.xml
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\priconfig.xml.intermediate
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\layout.resfiles
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\layout.resfiles.intermediate
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\resources.resfiles
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\resources.resfiles.intermediate
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\pri.resfiles
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\pri.resfiles.intermediate
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\qualifiers.txt
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\qualifiers.txt.intermediate
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\resources.pri.xml
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\ProjectArchitectures.txt
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\Design Pages\Login.g.i.cs
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\Design Pages\Login.g.cs
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\Design Pages\MainPage.g.i.cs
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\Design Pages\MainPage.g.cs
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\Design Pages\Login.xaml
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\Design Pages\MainPage.xaml
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\Design Pages\Login.xbf
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\Design Pages\MainPage.xbf
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\bin\Release\Design Pages\Login.xbf
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\bin\Release\Design Pages\MainPage.xbf
+C:\Users\Andy\Desktop\JuicyReddit\JuicyReddit\obj\Release\JuicyReddit.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\bin\Release\App.xbf
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\bin\Release\Design Pages\Login.xbf
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\bin\Release\Design Pages\MainPage.xbf
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\bin\Release\JuicyReddit.exe
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\bin\Release\JuicyReddit.pdb
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\bin\Release\resources.pri
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\bin\Release\AppxManifest.xml
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\bin\Release\JuicyReddit.build.appxrecipe
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\bin\Release\Newtonsoft.Json.dll
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\bin\Release\Newtonsoft.Json.xml
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\JuicyReddit.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\App.g.i.cs
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\App.g.cs
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\Design Pages\Login.g.i.cs
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\Design Pages\Login.g.cs
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\Design Pages\MainPage.g.i.cs
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\Design Pages\MainPage.g.cs
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\App.xaml
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\Design Pages\Login.xaml
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\Design Pages\MainPage.xaml
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\App.xbf
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\Design Pages\Login.xbf
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\Design Pages\MainPage.xbf
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\XamlSaveStateFile.xml
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\JuicyReddit.exe
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\JuicyReddit.pdb
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\JuicyReddit.csproj.GenerateResource.Cache
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\priconfig.xml
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\priconfig.xml.intermediate
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\layout.resfiles
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\layout.resfiles.intermediate
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\resources.resfiles
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\resources.resfiles.intermediate
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\pri.resfiles
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\pri.resfiles.intermediate
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\qualifiers.txt
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\qualifiers.txt.intermediate
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Andy\Dropbox\Public\College\Year 4\Semester 1\Mobile Apps\JuicyReddit App\JuicyReddit\obj\Release\ProjectArchitectures.txt
